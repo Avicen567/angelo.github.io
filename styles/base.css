@@ -4,6 +4,8 @@ body {
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
+  background: orange;
+  color: blue;
 }
 
 h1,
